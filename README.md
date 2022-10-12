@@ -1,3 +1,5 @@
+# Password Validator
+
 A simple Python program that verifies your password (Polish language inside).
 
 >**Note:** Your ***secure password*** must contain:
