@@ -4,7 +4,7 @@ A simple Python program that verifies Your password. You can choose polish or en
 
 > **Note:** Good secure password should contain:
 >
-> - 8 characters,
+> - at least 8 characters,
 > - at least one uppercase letter,
 > - at least one lowercase letter,
 > - at least one special character,
