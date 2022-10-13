@@ -10,3 +10,5 @@ A simple Python program that verifies Your password. You can choose polish or en
 > - at least one special character,
 > - at least one digit,
 > - and no spaces or tabulators.
+
+Enjoy.
